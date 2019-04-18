@@ -1,1 +1,8 @@
+.idea
+.DS_Store
+_config.yml
 /HW_Solutions
+__pycache__
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+~$*
